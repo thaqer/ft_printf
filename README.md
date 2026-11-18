@@ -35,4 +35,4 @@ int main(void)
 
 ## Author
 
-[thaqer](https://github.com/thaqer), 42 Amman. Originally kept in [42amman_journey](https://github.com/thaqer/42amman_journey).
+[thaqer](https://github.com/thaqer), 42 Amman.
